@@ -6,9 +6,9 @@ Good day and thank you for having a look through my code.
 3) The database is mysql, and there is an exported copy of the mysql database from XAMPP, however I've also provided a copy of the database file itself aptly named "database" and should be renamed to <em>"chuck_norris</em> before copying it into C:\xampp\mysql\data
 <br><br><br>
 The PHP (chuck_norris) was done with CodeIgniter, let's look at the models, views and controllers folders.
-- models points to the table name to be referred to in the mysql database.
+- **models folder** points to the table name to be referred to in the mysql database.
   <br><br>
-  controllers folder...<br>
+  **controllers folder...<br>**
   access.php in controllers folder refers to the mysql table to authenticate the user and see if they're the admin
 - if not logged in , it shows the login panel that you'd see upon startup of the project
 - if wrong credentials, it'll say so based on the error templates available
