@@ -3,8 +3,7 @@
                 </main>
             </div>
             <footer class="c-footer">
-                <div><a href="#">Chuck Norris</a> &copy; 2022 Creative Labs</div>
-                <!-- <div class="ml-auto">Powered by&nbsp;<a href="#">wynndarrien</a></div> -->
+                <div><a href="#">Chuck Norris</a></div>
             </footer>
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
