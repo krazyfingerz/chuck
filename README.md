@@ -1,4 +1,6 @@
 # Joke2Email
+#### If there are any further enquiries into the workings of this code, please feel free to contact me via email
+###### If you are not from TheVentury and you wish to use this code for educational purposes please feel free to do so but please do not use it in the event of a coding challenge...I cannot stop you but Chuck Norris can and he's probably behind you right now
 
 Good day and thank you for having a look through my code.
 1) The react frontend is named <em>joke2email</em>, simply use npm start
